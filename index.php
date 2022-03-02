@@ -17,10 +17,9 @@
     right:10px;
     top:10px;
   }
-  .pic{
-    max-width:80px;
+   .pic img{
+	max-width:80px;
   }
-
 </style>
 <script src="https://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
 
